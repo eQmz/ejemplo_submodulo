@@ -1,0 +1,6 @@
+elefante.h
+
+f_elefante()
+{
+	elefante;
+}
