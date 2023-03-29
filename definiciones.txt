@@ -10,3 +10,8 @@ f_jirafa()
 {
 	jirafa;
 }
+
+f_dog()
+{
+	dog;
+}
