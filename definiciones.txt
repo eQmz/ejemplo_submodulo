@@ -4,3 +4,9 @@ f_elefante()
 {
 	elefante;
 }
+
+
+f_jirafa()
+{
+	jirafa;
+}

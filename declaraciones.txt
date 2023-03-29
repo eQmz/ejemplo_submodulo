@@ -1,3 +1,4 @@
 elefante.h
 
 f_elefante();
+f_jirafa();
