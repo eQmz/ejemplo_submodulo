@@ -20,3 +20,8 @@ f_duck()
 {
 	duck;
 }
+
+f_seal()
+{
+	seal;
+}
