@@ -15,3 +15,8 @@ f_dog()
 {
 	dog;
 }
+
+f_duck()
+{
+	duck;
+}
